@@ -1,7 +1,9 @@
-<h3 align="center">My name is Luiz, a enthusiast of technology and music.</h3>
+<h3 align="center">Hi!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnzrfst&label=Profile%20views&color=0e75b6&style=flat" alt="pnzrfst" /> </p>
 
+- My name is Luiz, and:
+  
 - 🔭 I’m currently working on **wikiGenerator**
 
 - 🌱 I’m currently learning **JavaScript, Java, C++**
