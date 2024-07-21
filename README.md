@@ -4,7 +4,7 @@
 
 - My name is Luiz, and:
   
-- 🔭 I’m currently working on **wikiGenerator**
+- 🔭 I’m currently working on **galaxyTrip**
 
 - 🌱 I’m currently learning **JavaScript, Java, C++**
 
