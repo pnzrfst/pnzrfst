@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnzrfst&label=Profile%20views&color=0e75b6&style=flat" alt="pnzrfst" /> </p>
 
-- My name is Luiz!*
+- My name is Luiz!
 
 - 📫 How to reach me **lzpdro03@gmail.com**
 
